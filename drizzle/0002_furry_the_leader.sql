@@ -1,0 +1,1 @@
+ALTER TABLE "auth_user" ADD COLUMN "full_name" varchar(255);
